@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.masai.a96july_complex_permissions_html_camera_files_you4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:4:5-64
+11-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:5:22-77
+13
+14    <application
+14-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:6:5-20:19
+15        android:allowBackup="true"
+15-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:7:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/cc5e9dcdc56dc39042f72c501235e83f/core-1.5.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:8:9-43
+19        android:label="@string/app_name"
+19-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:9:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:10:9-54
+21        android:supportsRtl="true"
+21-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:11:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.96July_Complex_Permissions_HTML_Camera_Files_You4" >
+23-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:12:9-87
+24        <activity android:name="com.masai.a96july_complex_permissions_html_camera_files_you4.MainActivity" >
+24-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:13:9-19:20
+24-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:13:19-47
+25            <intent-filter>
+25-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:14:13-18:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:15:17-69
+26-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:15:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:17:17-77
+28-->/Users/shubhamsmac/9)6July_Complex_Permissions_HTML_Camera_Files_You4/app/src/main/AndroidManifest.xml:17:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

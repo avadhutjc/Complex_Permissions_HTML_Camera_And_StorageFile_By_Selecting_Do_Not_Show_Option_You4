@@ -1,0 +1,5 @@
+com/masai/a96july_complex_permissions_html_camera_files_you4/BuildConfig.java
+ com.masai.a96july_complex_permissions_html_camera_files_you4.BuildConfig
+com/masai/a96july_complex_permissions_html_camera_files_you4/MainActivity.java
+ com.masai.a96july_complex_permissions_html_camera_files_you4.MainActivity
+ com.masai.a96july_complex_permissions_html_camera_files_you4.MainActivity$1
